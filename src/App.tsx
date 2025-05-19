@@ -1,6 +1,6 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import { Lobby } from './Lobby';
-import { GameRoom } from './GameRoom';
+import { Lobby } from './game/Lobby';
+import { GameRoom } from './game/GameRoom';
 
 function App() {
   return (
